@@ -1,0 +1,3 @@
+Pohoda;Shoptet;Doklady;3000
+Pohoda;Shoptet;Doklady + Sklad;3500
+Pohoda;Shoptet;Komplet;4200
